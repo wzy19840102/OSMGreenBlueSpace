@@ -4,9 +4,7 @@ A significant number of literature have shown that **green and blue space** are 
 
 Blue space             |  Green space
 :-------------------------:|:-------------------------:
-Blue space             |  Green space
-:-------------------------:|:-------------------------:
-<img width="600"   src="https://github.com/wzy19840102/OSMGreenBlueSpace/blob/main/fig/blue.jpg" /> |  <img width="600" src="https://github.com/wzy19840102/OSMGreenBlueSpace/blob/main/fig/green.jpg" />
+<img width="600" height="500"  src="https://github.com/wzy19840102/OSMGreenBlueSpace/blob/main/fig/blue.jpg" /> |  <img width="600" height="500"   src="https://github.com/wzy19840102/OSMGreenBlueSpace/blob/main/fig/green.jpg" />
 
 
 
