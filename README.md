@@ -1,5 +1,6 @@
 # OSMGreenBlueSpace
-Green and blue space play an importtant role in physicial activities and health. In this project, we focus on extracting green and bluce space from OpenStreetMap. 
+A significant number of literature have shown that green and blue space are very important for physicial activities and health. Following this, in this project we focus on extracting green and bluce space from OpenStreetMap. The overall goal of this project is to integrate the information of the exposure to green and blue space into pedestrian navigation to facilitate pedestrian navigation. In general, all vegetated areas are considered as green space. It should be noted that these green areas can be further separated into public and private space as well as urban and rural space. 
+
 Please follow the following steps: 
 
 0) Install Postgresql (https://www.postgresql.org/) and PostGIS (https://postgis.net/)
