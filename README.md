@@ -4,7 +4,10 @@ A significant number of literature have shown that **green and blue space** are 
 
 Blue space             |  Green space
 :-------------------------:|:-------------------------:
-<img width="300" height="400"  src="https://github.com/wzy19840102/OSMGreenBlueSpace/blob/main/fig/blue.jpg" /> |  <img width="600" height="700"  src="https://github.com/wzy19840102/OSMGreenBlueSpace/blob/main/fig/green.jpg" />
+Blue space             |  Green space
+:-------------------------:|:-------------------------:
+<img width="600"   src="https://github.com/wzy19840102/OSMGreenBlueSpace/blob/main/fig/blue.jpg" /> |  <img width="600" src="https://github.com/wzy19840102/OSMGreenBlueSpace/blob/main/fig/green.jpg" />
+
 
 
 The following steps describe how to use the provided sql file to extract green and blue space features from OpenStreetMap: 
