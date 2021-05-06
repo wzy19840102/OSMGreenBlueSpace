@@ -2,9 +2,9 @@
 A significant number of literature have shown that **green and blue space** are very important for physicial activities and health. Following this, in this project we focus on extracting green and bluce space from OpenStreetMap (https://www.openstreetmap.org/). The overall goal of this project is to integrate the information of the exposure to green and blue space into pedestrian navigation to facilitate physicial activities. In general, all vegetated areas are considered as green space. It should be noted that these green areas can be further separated into public and private space as well as urban and rural space. 
 
 
-Solarized dark             |  Solarized Ocean
+Blue space             |  Green space
 :-------------------------:|:-------------------------:
-<img width="600" height="700"  src="https://github.com/wzy19840102/OSMGreenBlueSpace/blob/main/fig/blue.jpg" /> |  <img width="600" height="700"  src="https://github.com/wzy19840102/OSMGreenBlueSpace/blob/main/fig/green.jpg" />
+<img width="300" height="400"  src="https://github.com/wzy19840102/OSMGreenBlueSpace/blob/main/fig/blue.jpg" /> |  <img width="600" height="700"  src="https://github.com/wzy19840102/OSMGreenBlueSpace/blob/main/fig/green.jpg" />
 
 
 The following steps describe how to use the provided sql file to extract green and blue space features from OpenStreetMap: 
