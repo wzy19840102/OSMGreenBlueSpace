@@ -13,5 +13,5 @@ The following steps describe how to use the provided sql file to extract green a
 0\) Install Postgresql (https://www.postgresql.org/) and PostGIS (https://postgis.net/)<br/>
 1\) Install Osmosis, https://wiki.openstreetmap.org/wiki/Osmosis and import OSM data into the database<br/>
 2\) To extract green space,  the sql file uses the tags, such as **nature** and **landuse**,  and finds the features with values that indicate green space, e.g., natural=grassland. More information about the green space in OSM can be found at https://wiki.openstreetmap.org/wiki/Green_space_access_ITO_map. <br/>
-3\) To extract blue space, the file uses the tags, such as **nature** and **landuse**,  and finds the features with values that indicate blue space, e.g., natural=water. More information about the blue space in OSM can be found at https://wiki.openstreetmap.org/wiki/Tag:natural%3Dwater. <br/>
+3\) To extract blue space, the sql file uses the tags, such as **nature** and **landuse**,  and finds the features with values that indicate blue space, e.g., natural=water. More information about the blue space in OSM can be found at https://wiki.openstreetmap.org/wiki/Tag:natural%3Dwater. <br/>
 
